@@ -1,7 +1,6 @@
 <template>
     <div>
-        <h1>Welcome to the Index Component</h1>
-        <p>This is a sample component in Vue.js.</p>
+        <span>Welcome to the Vue 3 Component!</span>
         <button @click="handleClick">Click Me</button>
         <p v-if="message">{{ message }}</p>
     </div>
