@@ -21,12 +21,6 @@ const handleClick = () => {
         font-size: 16px;
     }
     button {
-        margin-top: 10px;
-        padding: 8px 16px;
-        background-color: #42b983;
-        color: white;
-        border: none;
-        border-radius: 4px;
         cursor: pointer;
     }
     button:hover {
